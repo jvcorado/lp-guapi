@@ -77,7 +77,7 @@ function PreEnrollment() {
           onClick={() => {
             track("pre-enrollment", { location: "investment" });
           }}
-          className="text-md bg-primary hover:bg-primary text-white font-bold py-2 px-4 rounded shadow-lg hover:shadow-xl transition-all duration-200 transform hover:scale-105"
+          className="text-md bg-indigo-400 hover:bg-primary text-white font-bold py-2 px-4 rounded shadow-lg hover:shadow-xl transition-all duration-200 transform hover:scale-105"
         >
           Lista de espera
         </Button>
