@@ -6,7 +6,7 @@ export default function IntroSection() {
   return (
     <section
       id="intro"
-      className="relative flex flex-col items-center justify-center gap-10 bg-red-500"
+      className="relative flex flex-col items-center justify-center gap-10 "
     >
       <div className="absolute inset-0 top-40 flex items-center justify-center -z-10">
         <svg
